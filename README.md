@@ -1,12 +1,12 @@
 <a href="https://aimeos.org/">
-    <img src="https://bfr-leap.github.io/artas_sysdoc/icons/artas-sysdoc.webp" alt="Aimeos logo" title="Aimeos" align="right" height="60" />
+    <img src="https://bfr-leap.github.io/artas-sysdoc/icons/artas-sysdoc.webp" alt="Aimeos logo" title="Aimeos" align="right" height="60" />
 </a>
 
-# artas_sysdoc
+# artas-sysdoc
 
 ## Overview
 
-**`artas_sysdoc`** is a repository dedicated to storing and managing visual assets related to system documentation within the LEAP ecosystem. These assets include icons, diagrams, and other graphical elements used to enhance documentation and improve understanding of system components and workflows.
+**`artas-sysdoc`** is a repository dedicated to storing and managing visual assets related to system documentation within the LEAP ecosystem. These assets include icons, diagrams, and other graphical elements used to enhance documentation and improve understanding of system components and workflows.
 
 This repository is an integral part of the LEAP platform, supporting the creation of clear, visually engaging documentation for both developers and end-users.
 
@@ -31,7 +31,7 @@ The repository is organized into the following directories:
 
 ## Purpose
 
-The **`artas_sysdoc`** repository serves the following goals:
+The **`artas-sysdoc`** repository serves the following goals:
 
 1. **Centralized Asset Management:** Provide a single location for storing and accessing visual documentation assets.
 2. **Consistency:** Ensure a uniform visual style across all LEAP documentation and interfaces.
