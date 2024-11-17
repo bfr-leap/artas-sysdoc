@@ -1,5 +1,5 @@
 <a href="https://aimeos.org/">
-    <img src="https://bfr-leap.github.io/artas_sysdoc/icons/artas_sysdoc.webp" alt="Aimeos logo" title="Aimeos" align="right" height="60" />
+    <img src="https://bfr-leap.github.io/artas_sysdoc/icons/artas-sysdoc.webp" alt="Aimeos logo" title="Aimeos" align="right" height="60" />
 </a>
 
 # artas_sysdoc
