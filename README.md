@@ -68,12 +68,3 @@ Here are a few examples of how assets in this repository can be used:
 
 3. **Presentations:**
    - Incorporate wallpapers and backgrounds in slides for visual appeal.
-
-## License
-
-The assets in this repository are licensed under the [MIT License](LICENSE). Please ensure you adhere to the terms of this license when using or distributing these assets.
-
-## Contact
-
-For questions or feedback about the repository, please contact the LEAP development team or submit an issue via the GitHub repository's issue tracker.
-
